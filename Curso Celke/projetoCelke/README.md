@@ -28,3 +28,6 @@ npm install
 
 //Rodar o projeto usando o nodemon 
 nodemon app.js
+
+//permitir acesso a api
+npm install --save cors
